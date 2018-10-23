@@ -1,2 +1,5 @@
-# dcc192-2018-3-trb1-lucia-pereira
-dcc192-2018-3-trb1-lucia-pereira created by GitHub Classroom
+# UNIVERSIDADE FEDERAL DE JUIZ DE FORA
+Departamento de Ciência da Computação
+Laboratório de Programação para Dispositivos Móveis 2018-3
+
+
